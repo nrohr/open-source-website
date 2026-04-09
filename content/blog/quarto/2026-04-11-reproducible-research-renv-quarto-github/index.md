@@ -3,7 +3,7 @@ title: "Structuring Reproducible Research Projects in R: A Workflow with renv, Q
 description: >
   A practical guide to structuring reproducible academic research projects using
   Git, renv, Quarto, and GitHub — from data cleaning to manuscript preparation.
-date: '2026-04-03'
+date: '2026-04-11'
 people:
   - Dianyi Yang
 categories:
@@ -18,8 +18,8 @@ tags:
   - renv
   - GitHub
   - Reproducibility
-image: "thumbnail.png"
-image-alt: "Diagram of a structured reproducible research project layout with folders for data, code, and manuscript"
+image: "img/3-pos.png"
+image-alt: "Positron IDE showing collapsible code sections created with the '# Section ----' syntax"
 ---
 
 Increasingly, academic disciplines, including the social sciences, are adopting data-science tools and calling for greater transparency and reproducibility in research. Many leading journals now require authors to share the data and code necessary to replicate published findings as a condition of publication.
